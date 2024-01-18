@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.homeBox {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+
+.homeHeadingBox {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.homeLogo {
+  height: 37px;
+  margin-right: 5px;
+}
+
+.teamsBox {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  margin-right: 150px;
+  margin-left: 290px;
+}

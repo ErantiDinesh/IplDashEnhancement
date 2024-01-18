@@ -1,0 +1,20 @@
+/* Write your CSS here */
+
+.style777 {
+  color: white;
+  background-color: black;
+}
+
+.topBox7 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.competingTeamLogo {
+  height: 90px;
+}
+
+.head7 {
+  font-size: 20px;
+}

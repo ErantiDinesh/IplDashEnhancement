@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.teamCardBoxStyle {
+  color: white;
+  display: flex;
+  align-items: center;
+  border: 2px solid white;
+  height: 150px;
+  width: 300px;
+  margin: 15px;
+  border-radius: 15px;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.teamCardImage {
+  height: 70px;
+  width: 70px;
+  margin-right: 37px;
+}
+
+.linkteamsCard {
+  text-decoration: none;
+  color: white;
+}

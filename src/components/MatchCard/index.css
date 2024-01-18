@@ -1,0 +1,72 @@
+/* Write your CSS here */
+
+.style1 {
+  background-color: #d91c1f;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style2 {
+  background-color: #f7db00;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style3 {
+  background-color: #5755a7;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style4 {
+  background-color: #da237b;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style5 {
+  background-color: #13418b;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style6 {
+  background-color: #f26d22;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style7 {
+  background-color: #4f5db0;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.style8 {
+  background-color: #a4261d;
+  min-height: 100vh;
+  padding: 37px;
+}
+
+.teamBanBox {
+  text-align: center;
+}
+
+.latestMatchBox {
+  background-color: black;
+  border-radius: 15px;
+  padding: 20px;
+  width: 800px;
+  margin-left: 160px;
+}
+
+.latestMatchHeading {
+  color: white;
+  margin-left: 160px;
+}
+
+.recentMatchesBox {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 150px;
+}
